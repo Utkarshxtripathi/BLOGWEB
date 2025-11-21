@@ -1,7 +1,3 @@
-# Blogging Website Version 2.0
-*For **Hacktoberfest** please refer [Contributing.md](https://github.com/Prashant0664/Blog-website/blob/master/CONTRIBUTING.md)* <br/>
-
-For older version checkout the branch named *version1*
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -155,5 +151,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 ### *Note: For any doubt or question you can open an issue. I will reply ASAP.*
+
 
 Thank you for using and contributing to the Blogging Website project! If you have any questions or need assistance, please don't hesitate to reach out to the maintainers.
