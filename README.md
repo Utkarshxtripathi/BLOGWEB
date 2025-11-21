@@ -85,7 +85,6 @@ Before you begin, make sure you have the following installed on your system:
 - Git
 
 ### Installation
-(Request: **Please Star⭐️ the Repo or follow [github](https://github.com/Prashant0664/) if you find this project interesting😁!** <br/>)
 1. Clone this GitHub repository to your local machine:
    ```
    git clone https://github.com/Prashant0664/All-Blogs-V2.git
@@ -133,24 +132,9 @@ You can now use the Blogging Website to create, like, save, share, and discover 
 
 ---
 
-## Contributing
-**Please Star⭐️ the Repo or follow [github](https://github.com/Prashant0664/) if you find this project interesting😁!** <br/>
-Contributions to this project are welcome! If you'd like to contribute, please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them with clear and descriptive commit messages. (Installation and Setup has been Explained in [Getting-Started](#getting-started) )
-4. Push your changes to your fork.
-5. Submit a pull request to the main repository.
-<br/>
 
----
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-### *Note: For any doubt or question you can open an issue. I will reply ASAP.*
 
 
 Thank you for using and contributing to the Blogging Website project! If you have any questions or need assistance, please don't hesitate to reach out to the maintainers.
+
